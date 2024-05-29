@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1716966838 source:c:\users\usuario\downloads\prototipop1ef2024\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"menu.h"
+	"Login.h"
+
+1716961999 c:\users\usuario\downloads\prototipop1ef2024\include\menu.h
+
+1716966682 c:\users\usuario\downloads\prototipop1ef2024\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716959749 c:\users\usuario\downloads\prototipop1ef2024\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716963288 c:\users\usuario\downloads\prototipop1ef2024\include\usuarios.h
+	<iostream>
+
+1716959691 source:c:\users\usuario\downloads\prototipop1ef2024\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716961324 source:c:\users\usuario\downloads\prototipop1ef2024\src\entrenador.cpp
+	"entrenador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716960394 c:\users\usuario\downloads\prototipop1ef2024\include\entrenador.h
+	<iostream>
+
+1716961654 source:c:\users\usuario\downloads\prototipop1ef2024\src\horario.cpp
+	"horario.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716961577 c:\users\usuario\downloads\prototipop1ef2024\include\horario.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1716966654 source:c:\users\usuario\downloads\prototipop1ef2024\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	"conio.h"
+
+1716963131 source:c:\users\usuario\downloads\prototipop1ef2024\src\peliculas.cpp
+	"peliculas.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716965066 c:\users\usuario\downloads\prototipop1ef2024\include\peliculas.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1716965894 source:c:\users\usuario\downloads\prototipop1ef2024\src\resultados.cpp
+	"resultados.h"
+	"entrenador.h"
+	"Salas.h"
+	"peliculas.h"
+	"horario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716965013 c:\users\usuario\downloads\prototipop1ef2024\include\resultados.h
+	<string>
+
+1716965050 c:\users\usuario\downloads\prototipop1ef2024\include\salas.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1716964893 source:c:\users\usuario\downloads\prototipop1ef2024\src\salas.cpp
+	"Salas.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716963288 source:c:\users\usuario\downloads\prototipop1ef2024\src\usuarios.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1716965934 source:c:\users\usuario\downloads\prototipop1ef2024\src\menu.cpp
+	"menu.h"
+	"entrenador.h"
+	"horario.h"
+	"Salas.h"
+	"peliculas.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"resultados.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+
