@@ -1,4 +1,4 @@
-// clientes cine
+// clientes PELICULA
 #include "entrenador.h"
 #include "bitacora.h"
 #include "login.h"
@@ -103,7 +103,7 @@ void entrenador::menu()
         cout << "\n";
         cout << "\t+------------------------------------------+" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
-        cout << "\t|\t  Catalogo de Clientes  \t   |" << endl;
+        cout << "\t|\t  Catalogo de Clientes  \t              |" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
         cout << "\t+------------------------------------------+" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
@@ -174,12 +174,12 @@ void entrenador::insertar()
 {
     string usuarioActual = Login::getUsuarioActual();
     Bitacora bitacora;
-    bitacora.ingresoBitacora(usuarioActual, "2003", "ENTREI");
+    bitacora.ingresoBitacora(usuarioActual, "2003", "CLIENTEPI");
 
     cout << "\n";
     cout << "\t+------------------------------------------+" << endl;
     cout << "\t|\t\t            \t\t   |" << endl;
-    cout << "\t|      Agregar detalles del Cliente \t   |" << endl;
+    cout << "\t|      Agregar detalles del Cliente  \t     " << endl;
     cout << "\t|\t\t            \t\t   |" << endl;
     cout << "\t+------------------------------------------+" << endl;
     cout << "\n";
@@ -227,7 +227,7 @@ void entrenador::desplegar()
 {
     string usuarioActual = Login::getUsuarioActual();
     Bitacora bitacora;
-    bitacora.ingresoBitacora(usuarioActual, "2004", "ENTRED");
+    bitacora.ingresoBitacora(usuarioActual, "2004", "CLIENTEPD");
 
     cout << "\n";
     cout << "\t+------------------------------------------+" << endl;
@@ -269,7 +269,7 @@ void entrenador::modificar()
 {
     string usuarioActual = Login::getUsuarioActual();
     Bitacora bitacora;
-    bitacora.ingresoBitacora(usuarioActual, "2005", "ENTREM");
+    bitacora.ingresoBitacora(usuarioActual, "2005", "CLIENTEPM");
 
     cout << "\n";
     cout << "\t+------------------------------------------+" << endl;
@@ -337,12 +337,12 @@ void entrenador::borrar()
 {
     string usuarioActual = Login::getUsuarioActual();
     Bitacora bitacora;
-    bitacora.ingresoBitacora(usuarioActual, "2006", "ENTREB");
+    bitacora.ingresoBitacora(usuarioActual, "2006", "CLIENTEPB");
 
     cout << "\n";
     cout << "\t+------------------------------------------+" << endl;
     cout << "\t|\t\t            \t\t   |" << endl;
-    cout << "\t|     Eliminar detalles del Cliente \t   |" << endl;
+    cout << "\t|     Eliminar detalles del Cliente \t     |" << endl;
     cout << "\t|\t\t            \t\t   |" << endl;
     cout << "\t+------------------------------------------+" << endl;
     cout << "\n";

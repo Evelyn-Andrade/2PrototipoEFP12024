@@ -32,7 +32,7 @@ void Bitacora::ingresoBitacora(const string& usuario, const string& codigoProgra
 
         archivo.close();
     } else {
-        cout << "No se pudo abrir el archivo de bitácora." << endl;
+        cout << "No se pudo abrir el archivo de bitacora." << endl;
     }
 }
 
@@ -40,7 +40,7 @@ void Bitacora::mostrarBitacora() {
 
     string usuarioActual = Login::getUsuarioActual();
     Bitacora bitacora;
-    bitacora.ingresoBitacora(usuarioActual, "2000", "BIT");
+    bitacora.ingresoBitacora(usuarioActual, "2000", "BIT");//BITACORA 2000
 
     system("cls");
 
@@ -70,7 +70,7 @@ void Bitacora::generarReporteCompleto() {
     ifstream archivo("Bitacora.dat", ios::binary | ios::in);
 
     if (!archivo) {
-        cout << "No hay información registrada en la bitácora." << endl;
+        cout << "No hay informacion registrada en la bitacora." << endl;
         return;
     }
 
@@ -90,14 +90,14 @@ void Bitacora::generarReporteCompleto() {
     archivo.close();
     reporte.close();
 
-    cout << "Se ha generado el reporte completo CINE en el archivo ReporteCompleto.txt." << endl;
+    cout << "Se ha generado el reporte completo PELICULA en el archivo ReporteCompleto.txt." << endl;
 }
 
 void Bitacora::generarReportePorUsuario(const string& nombreUsuario) {
     ifstream archivo("Bitacora.dat", ios::binary | ios::in);
 
     if (!archivo) {
-        cout << "No hay información registrada en la bitácora." << endl;
+        cout << "No hay información registrada en la bitacora." << endl;
         return;
     }
 

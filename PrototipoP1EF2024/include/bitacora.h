@@ -1,4 +1,4 @@
-// cine
+// pelicula
 #ifndef BITACORA_H
 #define BITACORA_H
 #include <iostream>
