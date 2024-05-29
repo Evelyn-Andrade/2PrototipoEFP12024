@@ -1,4 +1,4 @@
-// usuarios cine
+// usuarios PELICULA
 #include <iostream>
 #include <fstream>
 #include <iomanip>
