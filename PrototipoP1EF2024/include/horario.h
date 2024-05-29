@@ -1,4 +1,4 @@
-// horario cine
+// horario PELICULA
 #ifndef HORARIO_H
 #define HORARIO_H
 #include <iostream>
