@@ -1,4 +1,4 @@
-// peliculas cine
+// peliculas
 #include "peliculas.h"
 #include "bitacora.h"
 #include "login.h"
