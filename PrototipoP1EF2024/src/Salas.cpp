@@ -1,4 +1,4 @@
-// salas cine
+// salas PELICULAS
 #include "Salas.h"
 #include "bitacora.h"
 #include "login.h"
