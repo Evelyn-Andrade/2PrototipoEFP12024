@@ -1,4 +1,4 @@
-// resultados cine
+// resultados PELICULA
 #include "resultados.h"
 #include "entrenador.h"
 #include "Salas.h"
@@ -226,7 +226,7 @@ bool resultados::ValidarHO(int codigo) {
     Horario horario; // Cambiado el nombre de la variable a min�scula
 
     bool encontrada = false;
-    while (archivo.read(reinterpret_cast<char*>(&horario), sizeof(Horario))) { // Cambiado el nombre de la variable a min�scula
+    while (archivo.read(reinterpret_cast<char*>(&horario), sizeof(Horario))) { // Cambiado el nombre de la variable a minuscula
         if (horario.codigo == codigo) { // Cambiado el nombre de la variable a min�scula
             encontrada = true;
             break;
