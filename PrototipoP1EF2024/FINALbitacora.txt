@@ -1,0 +1,59 @@
+commit 9723d7a3c81a3c8e212768295d562a0c39505d71
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Wed May 29 11:04:39 2024 -0600
+
+    Mejoras de Impresión de Tiket
+
+commit 908c64cf0db4232596b8cbbd2e46efcbd6392772
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Wed May 29 11:03:30 2024 -0600
+
+    Horarios Pelicula
+
+commit 545555fec6c279db939d77ade25b3fd58100c13f
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Wed May 29 11:02:00 2024 -0600
+
+    Usuarios
+
+commit 8bc65b13ae42ce7239b345e7b69a860ddcb00cd2
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Wed May 29 10:58:51 2024 -0600
+
+    Archivo de encabezado Cliente Pelicula
+
+commit debf7c45c5bbe96bfee160084072beee4912e1b9
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Wed May 29 10:56:54 2024 -0600
+
+    Impresion Tiket PELICULA
+
+commit fdcc162b6eb051bbdc40427c6a6fc500614214e0
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Wed May 29 10:55:18 2024 -0600
+
+    Peliculas
+
+commit 07f9ef9425e61268b9e48682fdc22dcca63e4362
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Wed May 29 10:52:04 2024 -0600
+
+    Suculsales
+
+commit df8f4ea6fe36aa83a7f91b4877379880bf099d36
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Wed May 29 10:50:35 2024 -0600
+
+    implementando peliculas
+
+commit 7a3d5df8067d54bdc8a03bca4160decf43379ba5
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Wed May 29 10:16:56 2024 -0600
+
+    creando clientes pelicula
+
+commit e7672c18893bb20279d6bfa5d690d8687fbc0221
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Wed May 29 10:07:55 2024 -0600
+
+    Subiendo bitacora
