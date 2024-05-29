@@ -1,4 +1,6 @@
-//menu cine
+//menu PELICULAS
+//Evelyn Sofía Andrade Luna
+//9959-23-1224
 #include "menu.h"
 #include "entrenador.h"
 #include "horario.h"
@@ -28,9 +30,9 @@ void menu::MenuGeneral()
         cout << "\n";
         cout << "\t+------------------------------------------+" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
-        cout << "\t|  Evelyn Sofia Andrade Luna \t9959-23-1224       |" << endl;
+        cout << "\t Evelyn Sofia Andrade Luna \t9959-23-1224   " << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
-        cout << "\t|\t\tMenu general\t\t   |" << endl;
+        cout << "\t|\t\tMENU GENERAL\t\t   |" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
         cout << "\t+------------------------------------------+" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
@@ -174,11 +176,11 @@ void menu::Procesos()
         cout << "\t|\t\t            \t\t   |" << endl;
         cout << "\t+------------------------------------------+" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
-        cout << "\t|\t\t1) Registrar Funcion \t\t   |" << endl;
+        cout << "\t|\t\t1)Registrar Funcion\t\t |" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
-        cout << "\t|\t\t2) Bitacora \t\t   |" << endl;
+        cout << "\t|\t\t2)Bitacora \t\t   |" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
-        cout << "\t|\t    3) Regresar al menu\t\t   |" << endl;
+        cout << "\t|\t    3)Regresar al menu\t\t   |" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
         cout << "\t+------------------------------------------+" << endl;
         cout << "\n" << endl;

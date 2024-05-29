@@ -16,7 +16,7 @@ void HorarioCRUD::CrudHorarios() {
     do {
         system("cls");
         cout << "\t\t\t--------------------------------------------" << endl;
-        cout << "\t\t\t| SISTEMA DE CINE - GESTION DE HORARIOS    |" << endl;
+        cout << "\t\t\t|       PELICULA - GESTION DE HORARIOS      |" << endl;
         cout << "\t\t\t--------------------------------------------" << endl;
         cout << "\t\t\t 1. Ingresar" << endl;
         cout << "\t\t\t 2. Modificar" << endl;

@@ -232,7 +232,7 @@ void entrenador::desplegar()
     cout << "\n";
     cout << "\t+------------------------------------------+" << endl;
     cout << "\t|\t\t            \t\t   |" << endl;
-    cout << "\t|       Ver detalles del Cliente  \t   |" << endl;
+    cout << "\t|       Ver detalles del Cliente      \t   |" << endl;
     cout << "\t|\t\t            \t\t   |" << endl;
     cout << "\t+------------------------------------------+" << endl;
     cout << "\n";

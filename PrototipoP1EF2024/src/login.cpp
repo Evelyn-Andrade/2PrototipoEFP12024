@@ -48,17 +48,17 @@ bool Login::validacion() {
         system("cls");
         cout << "\t+------------------------------------------+" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
-        cout << "\t|\t   Bienvenido al Sistema\t   |" << endl;
+        cout << "\t\t Bienvenido al Sistema PELICULAS\t" << endl;
         cout << "\t|\t\t            \t\t   |" << endl;
         cout << "\t+------------------------------------------+" << endl;
 
         cout << "\n" << endl;
         cout << "\t\t     Intento " << (contintentos + 1) << " de " << maxintentos << "." << endl;
         cout << "\n" << endl;
-        cout << "\t\tIngrese su Nombre: ";
+        cout << "\t\tIngrese su Usuario: ";
         cin >> nom;
         cout << "\n" << endl;
-        cout << "\t\tIngrese su contraseña: ";
+        cout << "\t\tIngrese su contrasena: ";
          pass = "";
          char ch;
           while ((ch = getch()) != '\r') {

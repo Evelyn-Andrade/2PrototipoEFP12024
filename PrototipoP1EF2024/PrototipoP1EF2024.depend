@@ -147,3 +147,151 @@
 	<iostream>
 	<windows.h>
 
+1716966838 source:c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"menu.h"
+	"Login.h"
+
+1716961999 c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\include\menu.h
+
+1716966682 c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716999105 c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716963288 c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\include\usuarios.h
+	<iostream>
+
+1716999754 source:c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\src\horario.cpp
+	"horario.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716961577 c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\include\horario.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1716999652 source:c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	"conio.h"
+
+1716999721 source:c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\src\peliculas.cpp
+	"peliculas.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716965066 c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\include\peliculas.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1716999792 source:c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\src\resultados.cpp
+	"resultados.h"
+	"entrenador.h"
+	"Salas.h"
+	"peliculas.h"
+	"horario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716965013 c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\include\resultados.h
+	<string>
+
+1716998367 c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\include\entrenador.h
+	<iostream>
+
+1716965050 c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\include\salas.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+
+1716963288 source:c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\src\usuarios.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1716999250 source:c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716999457 source:c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\src\entrenador.cpp
+	"entrenador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1717000109 source:c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\src\menu.cpp
+	"menu.h"
+	"entrenador.h"
+	"horario.h"
+	"Salas.h"
+	"peliculas.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"resultados.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+
+1716983743 source:c:\users\usuario\desktop\3er semestre\final progra\prototipop1ef2024\src\salas.cpp
+	"Salas.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+

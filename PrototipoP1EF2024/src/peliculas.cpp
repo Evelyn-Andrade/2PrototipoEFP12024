@@ -16,7 +16,7 @@ void MedicoCRUD::CrudMedicos() {
     do {
         system("cls");
         cout << "\t\t\t----------------------------------------------" << endl;
-        cout << "\t\t\t| SISTEMA DE CINEPOLIS - GESTION DE PELICULAS |" << endl;
+        cout << "\t\t\t|             GESTION DE PELICULAS            |"<< endl;
         cout << "\t\t\t----------------------------------------------" << endl;
         cout << "\t\t\t 1. Ingresar" << endl;
         cout << "\t\t\t 2. Modificar" << endl;

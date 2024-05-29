@@ -382,14 +382,14 @@ void resultados::desplegarBoleta(const char* carnet,string nombre) {
             if ( resultados.carnet == scarnet) {
                 encontrado = true ;
                 cout << "--------------------------------------------------------------------------------------------------------------"<<endl;
-                cout << "                                                     DESCRIPCION DE LA FACTURA                                 |"<<endl;
+                cout << "                                                DESCRIPCION DE LA FACTURA                                    |"<<endl;
                 cout << "--------------------------------------------------------------------------------------------------------------"<<endl;
                 cout << "                      -> Nombre del Cliente: " << nombre << endl; // Mostrar el carnet
                 cout << "                      -> Sucursal elegida: " << ObtenerClinica(resultados.codigoClinica) << endl;
                 cout << "                      -> Pelicula Seleccionada: " << ObtenerMedico(resultados.codigoMedico) << endl;
                 cout << "---------------------------------------------------------------------------------------------------------------"<<endl;
                 cout << "---------------------------------------------------------------------------------------------------------------"<<endl;
-                cout << "|                                                  DATOS GENERALES DE FUNCION                                | "<<endl;
+                cout << "|                                             DATOS GENERALES DE FUNCION                                     | "<<endl;
                 cout << "---------------------------------------------------------------------------------------------------------------"<<endl;
                 cout << "                      -> Fecha seleccionada: " << ObtenerHorario(resultados.codigoHorario) << endl;
                 cout << "                      -> Hora seleccionada: " << ObtenerHorario2(resultados.codigoHorario) << endl;
