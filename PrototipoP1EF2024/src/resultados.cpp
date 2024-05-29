@@ -1,4 +1,5 @@
 // resultados PELICULA
+//Imprimir Tiket
 #include "resultados.h"
 #include "entrenador.h"
 #include "Salas.h"
